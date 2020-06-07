@@ -1,0 +1,18 @@
+Common Scale Formulas:
+Major scale            = 1 2 3 4 5 6 7       - C D  E  F  G  A  B
+Minor scale            = 1 2 b3 4 5 b6 b7    - C D  Eb F  G  Ab Bb
+Minor pentatonic scale = 1 b3 4 5 b7         - C Eb F  G  Bb
+Blues scale            = 1 b3 4 b5 5 b7      - C Eb F  Gb G  Bb
+Major pentatonic scale = 1 2 3 5 6           - C D  E  G  
+Harmonic minor scale   = 1 2 b3 4 5 b6 7     - C D  Eb F  G  Ab B
+Melodic minor scale    = 1 2 b3 4 5 6 7      - C D  Eb F  G  A  B
+Ionian scale           = 1 2 3 4 5 6 7       - C D  E  F  G  A  B
+Dorian scale           = 1 2 b3 4 5 6 b7     - C D  Eb F  G  A  Bb 
+Phrygian scale         = 1 b2 b3 4 5 b6 b7   - C Db Eb F  G  Ab Bb
+Lydian scale           = 1 2 3 #4 5 6 7      - C D  E  F# G  A  B
+Mixolydian scale       = 1 2 3 4 5 6 b7      - C D  E  F  G  A  Bb
+Aeolian scale          = 1 2 b3 4 5 b6 b7    - C D  Eb F  G  Ab Bb
+Locrian scale          = 1 b2 b3 4 b5 b6 b7  - C Db Eb F  Gb Ab Bb
+Whole tone scale       = 1 2 3 #4 #5 b7      - C D  E  F# G# Bb
+Whole-Half Diminished  = 1 2 b3 4 b5 b6 6 7  - C D  Eb F  Gb Ab A B
+Half-Whole Diminished  = 1 b2 b3 3 b5 5 6 b7 - C Db Eb E  F# G  A Bb
